@@ -14,7 +14,7 @@ And through the server I created a connection between the form and the database 
 
 ## The list of customers in the database: 
 
-<img src="https://user-images.githubusercontent.com/57721728/204750456-0adebcf7-9532-49eb-b3b6-d4bece83a6be.png" width="1200" height="500">
+<img src="https://user-images.githubusercontent.com/57721728/204750456-0adebcf7-9532-49eb-b3b6-d4bece83a6be.png" width="1200" height="350">
 
 ## The HTML form
 ### the customer table,
